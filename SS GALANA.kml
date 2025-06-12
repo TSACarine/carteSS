@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1gGqgrRtQ2Iy4buM7aHbwAWZOxJ95cedd">
+	<name>SS GALANA</name>
+	<gx:CascadingStyle kml:id="__managed_style_2D18A6651C38983559DE">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_11626357D838983559DE">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_002EC50F1038983559DE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_11626357D838983559DE</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2D18A6651C38983559DE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="5575E4B28A000001">
+		<name>donnees (2)</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+		<Placemark id="5575E4B28A000002">
+			<name>Station AINA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.54694444444441,-18.8761111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000003">
+			<name>Station AMBOARA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.3161111111111,-18.9822222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000004">
+			<name>Station AMPIHAVIANA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.03305555555559,-19.8555555555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000005">
+			<name>Station ANJANAHARISOA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5363888888889,-18.8961111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000006">
+			<name>Station ANJOMA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5266666666667,-18.9072222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000007">
+			<name>Station ANONY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5244444444444,-18.9458333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000008">
+			<name>Station ANOSISOA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.4916666666667,-18.8691666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000009">
+			<name>Station AVANA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5272222222222,-18.9016666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00000A">
+			<name>Station FENOMANANA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5366666666667,-18.9127777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00000B">
+			<name>Station IARIVO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5225,-18.9369444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00000C">
+			<name>Station IAVOLOHA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.53888888888889,-19.0052777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00000D">
+			<name>Station ILAMPY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.44138888888891,-19.38,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00000E">
+			<name>Station IMAHITSY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5422222222222,-18.8711111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00000F">
+			<name>Station KINTANA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5041666666667,-18.9105555555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000010">
+			<name>Station LA CITY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.51861111111109,-18.8713888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000011">
+			<name>Station LOHARANO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5322222222222,-18.9877777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000012">
+			<name>Station MALAZA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.6327777777778,-18.8838888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000013">
+			<name>Station MIARINARIVO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>46.9144444444444,-18.9444444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000014">
+			<name>Station NIRINA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5208333333333,-18.9055555555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000015">
+			<name>Station ANKORONDRANO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5225,-18.8897222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000016">
+			<name>Station RAILOVY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5283333333333,-18.8936111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000017">
+			<name>Station SABNAM</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5552777777778,-18.8388888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000018">
+			<name>Station SAKAY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>46.4744444444444,-18.9858333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000019">
+			<name>Station SOA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.47499999999999,-18.9161111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00001A">
+			<name>Station SOAMITOMBO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.04194444444439,-19.8941666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00001B">
+			<name>Station SOAVA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.6027777777778,-18.9016666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00001C">
+			<name>Station TALATAMATY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.4619444444444,-18.8402777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00001D">
+			<name>Station TARATRA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5361111111111,-18.8963888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00001E">
+			<name>Station TATAMARINA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>46.8563888888889,-19.8386111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00001F">
+			<name>Station TONGASOA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.4744444444444,-18.8002777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000020">
+			<name>Station TSARAFARITRA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.5288888888889,-18.9352777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000021">
+			<name>Station AMBANJA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>48.4497222222222,-13.6566666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000022">
+			<name>Station ANTANIFOTSY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>50.14,-14.2616666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000023">
+			<name>Station BEANANA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>49.6527777777778,-14.6661111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000024">
+			<name>Station DIAMANT</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>49.9458333333333,-13.8647222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000025">
+			<name>Station KARIBO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>49.2938888888889,-12.3088888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000026">
+			<name>Station KOEZY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>48.2688888888889,-13.3952777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000027">
+			<name>Station MAHAVAVY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>49.0494444444444,-13.1986111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000028">
+			<name>Station MBOLATSARA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>49.2944444444444,-12.2841666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000029">
+			<name>Station AMBALAVOLA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.08972222222221,-21.445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00002A">
+			<name>Station EMOKALA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>48.0130555555556,-22.1475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00002B">
+			<name>Station IRONDRO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.98138888888889,-21.4019444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00002C">
+			<name>Station MATSIATRA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.0977777777778,-21.4408333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00002D">
+			<name>Station TSIKY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.2411111111111,-20.5486111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00002E">
+			<name>Station ANTSOHIHY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.98833333333331,-14.8894444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00002F">
+			<name>Station ATAFANA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>46.3127777777778,-15.7216666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000030">
+			<name>Station DOMOINA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>46.3272222222222,-15.7188888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000031">
+			<name>Station KAMORO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.1583333333333,-16.4377777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000032">
+			<name>Station SOANIADANANA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>46.6461111111111,-16.1072222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000033">
+			<name>Station SOFIA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>47.6255555555556,-15.5769444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000034">
+			<name>Station TSARARANO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>46.3202777777778,-15.7075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000035">
+			<name>Station AMPASIPOTAKA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>49.40416666666669,-17.3791666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000036">
+			<name>Station BARIKADIMY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>49.36944444444439,-18.1463888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000037">
+			<name>Station BAZARY BE</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>49.4136111111111,-18.1566666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000038">
+			<name>Station KIANJA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>48.4277777777778,-17.8227777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000039">
+			<name>Station LOARANJY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>49.0672222222222,-18.8183333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00003A">
+			<name>Station MANGORO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>48.2097222222222,-18.9397222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00003B">
+			<name>Station RELAIS DU STADE</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>49.4144444444444,-18.1511111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00003C">
+			<name>Station TANAMBE</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>48.4452777777778,-17.3922222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00003D">
+			<name>Station TSIMISARAKA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>49.3955555555556,-18.17,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00003E">
+			<name>Station AKORY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>43.7058333333333,-23.3725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A00003F">
+			<name>Station BAOBAB</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>44.3147222222222,-20.2925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000040">
+			<name>Station IHOSY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>46.1138888888889,-22.3916666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000041">
+			<name>Station KATRAFAY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>44.7466666666667,-24.6941666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000042">
+			<name>Station MAHABO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>44.6552777777778,-20.3752777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000043">
+			<name>Station MASOANDRO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>45.4597222222222,-19.5361111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000044">
+			<name>Station MAZAVA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>43.3722222222222,-21.74,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000045">
+			<name>Station RAMANJAKA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>43.6686111111111,-23.3508333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000046">
+			<name>Station TARITARIKA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>44.5413888888889,-22.91305555555561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000047">
+			<name>Station TOLAGNARO</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>46.97111111111109,-25.0286111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000048">
+			<name>Station VONIMBOLA</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>44.2758333333333,-20.2919444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5575E4B28A000049">
+			<name>Station IMALANDY</name>
+			<styleUrl>#__managed_style_002EC50F1038983559DE</styleUrl>
+			<Point>
+				<coordinates>46.3769444444444,-15.7083333333333,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
